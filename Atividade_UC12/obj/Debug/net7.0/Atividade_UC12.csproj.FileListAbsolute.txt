@@ -1,0 +1,15 @@
+D:\Sistema_Clientes_UC12\Atividade_UC12\bin\Debug\net7.0\Atividade_UC12.exe
+D:\Sistema_Clientes_UC12\Atividade_UC12\bin\Debug\net7.0\Atividade_UC12.deps.json
+D:\Sistema_Clientes_UC12\Atividade_UC12\bin\Debug\net7.0\Atividade_UC12.runtimeconfig.json
+D:\Sistema_Clientes_UC12\Atividade_UC12\bin\Debug\net7.0\Atividade_UC12.dll
+D:\Sistema_Clientes_UC12\Atividade_UC12\bin\Debug\net7.0\Atividade_UC12.pdb
+D:\Sistema_Clientes_UC12\Atividade_UC12\obj\Debug\net7.0\Atividade_UC12.csproj.AssemblyReference.cache
+D:\Sistema_Clientes_UC12\Atividade_UC12\obj\Debug\net7.0\Atividade_UC12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistema_Clientes_UC12\Atividade_UC12\obj\Debug\net7.0\Atividade_UC12.AssemblyInfoInputs.cache
+D:\Sistema_Clientes_UC12\Atividade_UC12\obj\Debug\net7.0\Atividade_UC12.AssemblyInfo.cs
+D:\Sistema_Clientes_UC12\Atividade_UC12\obj\Debug\net7.0\Atividade_UC12.csproj.CoreCompileInputs.cache
+D:\Sistema_Clientes_UC12\Atividade_UC12\obj\Debug\net7.0\Atividade_UC12.dll
+D:\Sistema_Clientes_UC12\Atividade_UC12\obj\Debug\net7.0\refint\Atividade_UC12.dll
+D:\Sistema_Clientes_UC12\Atividade_UC12\obj\Debug\net7.0\Atividade_UC12.pdb
+D:\Sistema_Clientes_UC12\Atividade_UC12\obj\Debug\net7.0\Atividade_UC12.genruntimeconfig.cache
+D:\Sistema_Clientes_UC12\Atividade_UC12\obj\Debug\net7.0\ref\Atividade_UC12.dll

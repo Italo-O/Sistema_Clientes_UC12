@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Atividade_UC12/1.0.0": {
+        "runtime": {
+          "Atividade_UC12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade_UC12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
